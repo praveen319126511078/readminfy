@@ -1,0 +1,2 @@
+# readminfy
+print("hello world")
